@@ -1,0 +1,9 @@
+.box{
+    border: 1px solid black;
+    height: 200px;
+    background-color: #eee;
+}
+
+.box-new{
+    border: 1px solid slateblue;
+}
